@@ -11,7 +11,7 @@ export default class App extends React.Component {
         <Home />
         <Items />
         <About />
-        <Text>Toolmarts app in React Native By Hammad Hassan &copy;</Text>
+        <Text>Toolmarts&reg; app in React Native By Hammad Hassan&trade; &copy;</Text>
       </View>
     );
   }
